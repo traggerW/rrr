@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3d7db709-837b-4734-9925-55248519f67f">
+  <producedTypes>
+    <objectType typeId="779b9965-8c2a-4361-82a1-d2c74bdc5c04" valueTypeId="255e057a-2bc3-437c-be0f-7832b54b9f0c"/>
+    <managerType typeId="77d18521-09c1-4c4f-89b0-2484b47c4e83" valueTypeId="1cbf82b7-278c-4828-a978-bb198d3ad357"/>
+  </producedTypes>
+  <name>dvsdvs</name>
+  <synonym>
+    <key>ru</key>
+    <value>Dvsdvs</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

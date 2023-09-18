@@ -38,4 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <dataProcessors>DataProcessor.dvsdvs</dataProcessors>
 </mdclass:Configuration>
